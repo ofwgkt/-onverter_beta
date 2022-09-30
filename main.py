@@ -7,6 +7,8 @@ currencys_dict = {
     'GBP' : 0.01621,
     'CNY' : 0.1252
 }
+
+
 def convert():
     if rubles.isdigit() and currency.isalpha():
 
